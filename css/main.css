@@ -7,3 +7,8 @@
 .centrar {
   text-align: center;
 }
+.caja2 {
+  height: 200px;
+  width: 500px;
+  margin: 0 auto;
+}
